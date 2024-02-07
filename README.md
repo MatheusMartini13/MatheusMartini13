@@ -4,8 +4,8 @@
 
 Hello! Welcome to my Github page.<br>
 Here you can find some of my projects and everything I'm studying right now.<br>
-You can learn more about me in <a href="https://matheusmartini13.github.io/">MY PORTFOLIO.</a><BR>
-Fell free to explore this space and talk with me at any time.<br>
+Unfortunately, most of my projects are private.<br>
+Fell free to talk with me at any time.<br>
 If you don't have my contact information, please send me an e-mail: matheusmartini13@gmail.com.<br>
 Have a nice day!<br>
 
